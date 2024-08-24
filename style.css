@@ -1,0 +1,53 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    outline: 2px solid red;
+}
+
+.title {
+    font-size: 30px;
+    color: black;
+}
+
+.header {
+    font-size: 30px;
+    background-color: forestgreen;
+    text-align: center;
+}
+
+.favorites {
+    font-size: 24px;
+    text-align: center;
+    background-color: forestgreen;
+}
+
+.container-1 {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-around;
+    gap: 8px;
+}
+
+.lemon-chicken {
+    font-size: 20px;
+    color: black;
+}
+
+.lasagna {
+    font-size: 20px;
+    color: black;
+}
+
+.tiramisu {
+    font-size: 20px;
+    color: black;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
+
+ul {
+    text-align: center;
+}
